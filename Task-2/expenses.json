@@ -1,0 +1,10 @@
+[
+    {
+        "amount": 100.0,
+        "description": "food"
+    },
+    {
+        "amount": 200.0,
+        "description": "comb"
+    }
+]
